@@ -39,9 +39,11 @@ La idea del trabajo en parejas es que haya **una persona que dicta y otra que es
 - [Día 2](dia-2.md)
 - [Día 3](dia-3.md)
 - [Día 4](dia-4.md)
+- [Día 5](dia-5.md)
 
 ## 🎥 Clases Anteriores
 - Día 1: https://youtu.be/WsQ8rKXVeBI
 - Día 2: https://youtu.be/YBPVGeDOnls
 - Día 3: https://youtu.be/kz5PGUOCbkk
 - Día 4: https://youtu.be/-mIu_yozdhc
+- Día 5: https://youtu.be/dSlRdXmXV6k
